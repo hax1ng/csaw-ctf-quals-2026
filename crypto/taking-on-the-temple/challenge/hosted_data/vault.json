@@ -1,0 +1,15 @@
+{
+  "braille": "\u2827\u2801\u2825\u2807\u281e",
+  "poem": [
+    "Three fragments sleep beneath the frost,",
+    "Each guards the piece the others lost.",
+    "Stone keeps memory, frost keeps time,",
+    "Iron joins the broken line.",
+    "Set all three where old locks meet;",
+    "The buried hoard will yield its seat."
+  ],
+  "nonce_b64": "q6Q2uqD/nv4Xu4OR",
+  "aad": "NORTHERN-RELIQUARY-V1",
+  "ciphertext_b64": "vGH4NHOrx9eq9+5Mj8DA7MtXj6bgSRhvfK4OdRiLiYVZIC8Ld5r559SUVHVOZFYrj80+Uwzs8w==",
+  "hint": "Join the three complete markers in map order with |, then SHA-256 the result for the AES-GCM key."
+}

@@ -1,0 +1,11 @@
+{
+  "braille": "\u280a\u2817\u2815\u281d",
+  "inscription": "THE SHAPE OF THE ANSWER IS NOT THE ANSWER.",
+  "columns": [
+    "811a9b078bba880e5f92036e1a19c35b31b55372b77e255f6ee48845736f15c3",
+    "ed67f75b768bf9f817498d8f4fab7622775a72848efdca127cd358dd20d6ad81",
+    "fd3498b481fab2b90940c64b7a5ae9b2ce377d17c167753f89b5af7f043ea81f"
+  ],
+  "payload_b64": "EX1EdrhvjsC2DQJN0j0JA2MNSQhS5U+naFKG2TOcGyO3gaBTlPd3NFBBgV+GAzEdTgvL2qvrmnWfu4Y93xT69pprBylnVkd175HbP31ScQ9COmC9zafPS12VtPXDbzPU/xUnlBgegqxppwSh866eks2R0v+5jLDoVi8uwIgA2wF9ezpBWpSuKCxYLVkwXanljKuo0fI0iBiKVPVDZzYCKYRBg4coHoOFSzjP",
+  "plate_note": "Begin with marker two. Join that digest to marker one. Reverse that result before the final join to marker two."
+}

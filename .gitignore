@@ -1,0 +1,44 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
+# ---- Node ----
+node_modules/
+npm-debug.log*
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# ---- Secrets / sensitive (never commit) ----
+*.env
+.env
+.env.*
+*cookies*
+*cookie_jar*
+*.cookies
+flag_jar.txt
+*token*.txt
+*.pem
+*.key
+id_rsa*
+.organizer/
+runtime/
+logs/
+
+# ---- CTF scratch / heavy artifacts ----
+*.core
+core.*
+*.raw
+*.vmem
+*.mem

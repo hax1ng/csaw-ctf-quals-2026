@@ -1,0 +1,87 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "action_counts": {
+          "favorites_count": 0
+        },
+        "affiliates_highlighted_label": {},
+        "avatar": {
+          "image_url": "https://pbs.twimg.com/profile_images/2100657413623889920/SYmuBCSa_normal.jpg"
+        },
+        "banner": {
+          "image_url": ""
+        },
+        "business_account": {},
+        "core": {
+          "created_at": "Thu Sep 17 18:39:39 +0000 2026",
+          "name": "Geneva",
+          "screen_name": "timepieces_ferr"
+        },
+        "creator_subscriptions_count": 0,
+        "follow_request_sent": false,
+        "has_graduated_access": false,
+        "id": "VXNlcjoyMTAwNjU1NzU2MjQ0NjM5NzQ0",
+        "is_blue_verified": false,
+        "is_profile_translatable": false,
+        "legacy_extended_profile": {},
+        "location": {
+          "location": "New York"
+        },
+        "media_permissions": {
+          "can_media_tag": false
+        },
+        "notifications_settings": {
+          "notifications_enabled": false
+        },
+        "pinned_items": {},
+        "possibly_sensitive": false,
+        "privacy": {
+          "protected": false
+        },
+        "profile_bio": {
+          "description": "38fw78xp",
+          "entities": {
+            "description": {}
+          }
+        },
+        "profile_image_shape": "Circle",
+        "profile_metadata": {
+          "profile_interstitial_type": ""
+        },
+        "profile_sort_enabled": false,
+        "profile_translation": {
+          "translator_type": "none"
+        },
+        "relationship_counts": {
+          "followers": 1,
+          "following": 0
+        },
+        "relationship_perspectives": {
+          "blocked_by": false,
+          "blocking": false,
+          "followed_by": false,
+          "following": false,
+          "live_following": false,
+          "muting": false
+        },
+        "rest_id": "2100655756244639744",
+        "super_follow_eligible": false,
+        "super_followed_by": false,
+        "super_following": false,
+        "tweet_counts": {
+          "media_tweets": 1,
+          "tweets": 2
+        },
+        "verification": {
+          "verified": false
+        },
+        "verification_info": {},
+        "website": {
+          "url": ""
+        }
+      }
+    }
+  }
+}

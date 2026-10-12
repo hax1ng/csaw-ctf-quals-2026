@@ -1,0 +1,21 @@
+[ExifTool]      ExifToolVersion                 : 13.55
+[System]        FileName                        : vantage_final_image.jpg
+[System]        Directory                       : artifacts
+[System]        FileSize                        : 78 kB
+[System]        FileModifyDate                  : 2026:09:18 14:14:43-04:00
+[System]        FileAccessDate                  : 2026:09:18 14:14:43-04:00
+[System]        FileInodeChangeDate             : 2026:09:18 14:14:43-04:00
+[System]        FilePermissions                 : -rw-------
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ExifByteOrder                   : Big-endian (Motorola, MM)
+[File]          ImageWidth                      : 900
+[File]          ImageHeight                     : 1200
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+[ExifIFD]       UserComment                     : csaw{cr0ss_pl4tf0rm_carel3ssness}
+[Composite]     ImageSize                       : 900x1200
+[Composite]     Megapixels                      : 1.1

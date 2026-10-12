@@ -1,0 +1,81 @@
+{
+  "type": 0,
+  "code": "aWVweH3m6z",
+  "inviter": {
+    "id": "1134233152689283103",
+    "username": "spiderman___007",
+    "avatar": "f653130b290b2cdf3b154dcbfee336d7",
+    "discriminator": "0",
+    "public_flags": 0,
+    "flags": 0,
+    "banner": null,
+    "accent_color": null,
+    "global_name": "nambads",
+    "avatar_decoration_data": null,
+    "collectibles": {
+      "nameplate": {
+        "sku_id": "1459194821456691393",
+        "asset": "nameplates/love_xp/lone_wolf/",
+        "label": "COLLECTIBLES_LOVE_XP_LONE_WOLF_NP_A11Y",
+        "palette": "cobalt"
+      }
+    },
+    "display_name_styles": null,
+    "vad_colors": null,
+    "banner_color": null,
+    "clan": null,
+    "primary_guild": null
+  },
+  "expires_at": null,
+  "id": "1548929859852705843",
+  "guild": {
+    "id": "1546967902157283408",
+    "name": "CSAW' 26 Quals",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "90502502b8396926b0a706f18afaf1a2",
+    "features": [
+      "NEWS",
+      "COMMUNITY"
+    ],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "nsfw_level": 0,
+    "nsfw": false,
+    "premium_subscription_count": 0,
+    "premium_tier": 0
+  },
+  "guild_id": "1546967902157283408",
+  "channel": {
+    "id": "1548020543519723650",
+    "type": 0,
+    "name": "enter-the-heist"
+  },
+  "profile": {
+    "id": "1546967902157283408",
+    "name": "CSAW' 26 Quals",
+    "icon_hash": "90502502b8396926b0a706f18afaf1a2",
+    "member_count": 673,
+    "online_count": 352,
+    "description": null,
+    "banner_hash": null,
+    "game_application_ids": [],
+    "game_activity": {},
+    "tag": null,
+    "badge": 0,
+    "badge_color_primary": null,
+    "badge_color_secondary": null,
+    "badge_hash": null,
+    "traits": [],
+    "features": [
+      "COMMUNITY"
+    ],
+    "visibility": 1,
+    "custom_banner_hash": null,
+    "premium_subscription_count": 0,
+    "premium_tier": 0
+  },
+  "approximate_member_count": 673,
+  "approximate_presence_count": 352
+}
